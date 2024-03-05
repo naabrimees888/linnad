@@ -1,23 +1,14 @@
-import logo from './logo.svg';
-import './App.css';
+import Linn from './Linn';
+import './linnad.css';
+import tenerife from './img/tenerife.jpeg';
+import numana from './img/numana.webp';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="container">
+      <h1>Linnad</h1>
+      <Linn name="Numana" riik="Itaalia" pilt={numana} />
+      <Linn name="Tenerife" riik="Hispaania" pilt={tenerife} />
     </div>
   );
 }

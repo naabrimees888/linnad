@@ -1,0 +1,9 @@
+.container {
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.linna-pilt {
+  max-width: 500px;
+}
