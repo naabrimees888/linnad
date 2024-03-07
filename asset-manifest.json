@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/linnad/static/css/main.b80801d7.css",
+    "main.js": "/linnad/static/js/main.39b78bb8.js",
+    "static/js/453.956e50d1.chunk.js": "/linnad/static/js/453.956e50d1.chunk.js",
+    "static/media/tenerife.jpeg": "/linnad/static/media/tenerife.865d18ad645f443d393d.jpeg",
+    "static/media/numana.webp": "/linnad/static/media/numana.3090340e2db4c12d151e.webp",
+    "index.html": "/linnad/index.html",
+    "main.b80801d7.css.map": "/linnad/static/css/main.b80801d7.css.map",
+    "main.39b78bb8.js.map": "/linnad/static/js/main.39b78bb8.js.map",
+    "453.956e50d1.chunk.js.map": "/linnad/static/js/453.956e50d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b80801d7.css",
+    "static/js/main.39b78bb8.js"
+  ]
+}
